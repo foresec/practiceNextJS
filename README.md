@@ -21,4 +21,8 @@ SSR 등을 통해 전달되는 정적 HTML에 이벤트 핸들러를 첨부하�
 - `useRouter`와 같은 Hook을 사용하여 조건을 거는것도 가능
 
 
+## 4. CSS Modules
+- 빌드시 class 이름에 random Text가 붙으며 다른 컴포넌트에서도 동일한 class 이름을 사용할 수 있도록 함. 즉, class이름 중복사용 시 충돌이 일어나지 않음
+
+
 
