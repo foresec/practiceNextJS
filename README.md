@@ -25,4 +25,13 @@ SSR 등을 통해 전달되는 정적 HTML에 이벤트 핸들러를 첨부하�
 - 빌드시 class 이름에 random Text가 붙으며 다른 컴포넌트에서도 동일한 class 이름을 사용할 수 있도록 함. 즉, class이름 중복사용 시 충돌이 일어나지 않음
 
 
+## 5. Styles JSX
+styles 태그를 사용가능
+
+## 6. Custom App
+- pages폴더 내 _app.js를 통해 렌더링
+- 전역적인 설정(Styles 등) 가능
+- module.css파일이 아닌, css파일도 불러올 수 있음
+
+
 
