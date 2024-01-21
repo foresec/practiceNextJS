@@ -1,3 +1,7 @@
-export default function Tomato () {
-	return <h1>Hello Next</h1>
+export default function Page() {
+  return (
+    <div>
+      <h1>home</h1>
+    </div>
+  );
 }
